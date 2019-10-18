@@ -11,9 +11,22 @@ import java.io.IOException;
 public class DiaryServelet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+
+        System.out.println("Hello wolrd");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+
+
+
+
+
+
+
+
+
+
 
     }
 }
